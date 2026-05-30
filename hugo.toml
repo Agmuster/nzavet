@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://Agmuster.github.io/nzavet/'
+languageCode = 'ru-ru'
+title = 'Новый Завет в искусстве'
 theme = 'ananke'
+
+[params]
+ananke_socials = []
