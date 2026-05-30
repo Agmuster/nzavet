@@ -1,7 +1,7 @@
 baseURL = 'https://Agmuster.github.io/nzavet/'
 languageCode = 'ru-ru'
 title = 'Новый Завет в искусстве'
-theme = 'ananke'
+theme = 'PaperMod'
 
 [params]
 ananke_socials = []
